@@ -1,7 +1,7 @@
 {
   "name": "outline-selection",
   "main": "./lib/outline-selection",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Outlines selections with a custom border.",
   "keywords": [
     "outline",
@@ -14,6 +14,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
