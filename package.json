@@ -9,8 +9,6 @@
     "selected",
     "border"
   ],
-  "activationCommands": {
-  },
   "repository": "https://github.com/mupchrch/outline-selection",
   "license": "MIT",
   "engines": {
