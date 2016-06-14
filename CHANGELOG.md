@@ -1,3 +1,7 @@
+## 0.2.1 - 2016-06-13
+* Fixed larger outlines not being aligned with selections #2
+* Fixed strange outline behavior if you did an undo on a deleted selection #3
+
 ## 0.2.0 - 2016-06-12
 * Added ability to outline all selections, not just the most recent #1
 
