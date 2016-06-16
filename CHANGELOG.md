@@ -1,6 +1,7 @@
 ## 0.2.3 - 2016-06-16
 * Fixed "Maximum call stack size exceeded" when selecting lines quickly using cmd+L (editor:select-line) #6
 * Fixed error when cmd+click (add new cursor) inside selection #8
+* Fixed a case where outline was not appearing when new selection was added #7
 
 ## 0.2.2 - 2016-06-14
 * Fixed exception when user was not using Shadow DOM #4
