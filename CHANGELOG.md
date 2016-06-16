@@ -1,3 +1,6 @@
+## 0.2.3 - 2016-06-16
+* Fixed "Maximum call stack size exceeded" when selecting lines quickly using cmd+L (editor:select-line) #6
+
 ## 0.2.2 - 2016-06-14
 * Fixed exception when user was not using Shadow DOM #4
 
