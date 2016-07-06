@@ -1,3 +1,6 @@
+## 0.2.4 - 2016-07-06
+* Fixed issue where outline would disappear when splitting panes #9
+
 ## 0.2.3 - 2016-06-17
 * Fixed "Maximum call stack size exceeded" when selecting lines quickly using cmd+L (editor:select-line) #6
 * Fixed error when cmd+click (add new cursor) inside selection #8
