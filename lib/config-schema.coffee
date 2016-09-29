@@ -21,3 +21,8 @@ module.exports =
     default: 1
     minimum: 0
     maximum: 1
+  outlineRadius:
+    title: 'Outline Radius'
+    description: 'The radius of the outline\'s corners (in pixels)'
+    type: 'integer'
+    default: 0

@@ -1,3 +1,6 @@
+## 0.3.0 - 2016-09-28
+* Added ability to round the edges of the outline in the settings #10
+
 ## 0.2.4 - 2016-07-06
 * Fixed issue where outline would disappear when splitting panes #9
 
