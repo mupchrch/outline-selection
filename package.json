@@ -1,7 +1,7 @@
 {
   "name": "outline-selection",
   "main": "./lib/outline-selection",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Outlines selections with a custom border.",
   "keywords": [
     "outline",
