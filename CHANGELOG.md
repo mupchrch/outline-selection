@@ -1,3 +1,7 @@
+## 0.3.1 - 2017-01-12
+* Fixed deprecations related to shadow DOM
+* Fixed spacing issues between the sides of the outline
+
 ## 0.3.0 - 2016-09-28
 * Added ability to round the edges of the outline in the settings #10
 
