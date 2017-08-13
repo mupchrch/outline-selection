@@ -1,3 +1,6 @@
+## 0.3.2 - 2017-08-13
+* Fixed failure to activate package due to atom private method failure #12
+
 ## 0.3.1 - 2017-01-12
 * Fixed deprecations related to shadow DOM
 * Fixed spacing issues between the sides of the outline
